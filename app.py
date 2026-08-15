@@ -15,7 +15,7 @@ import streamlit as st
 # EVIDENCEMD API CONFIGURATION
 # ============================================================
 
-EVIDENCEMD_API_KEY ="emd_f0fd03_d14261cbfacfc9e2bcc44c84f2023f8d5474d5b95cb23197f48e8b208476985f"
+EVIDENCEMD_API_KEY ="----------"
 EVIDENCEMD_API_URL = "https://evidencemd.ai/api/v1/chat/completions"
 EVIDENCEMD_MODEL = "evidencemd-fast"
 
